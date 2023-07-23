@@ -5,7 +5,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/">
+  <a href="[https://github.com/](https://github.com/its-kundan/Filmpire/tree/main)">
     <img src="src/assets/images/lightLogo.png" alt="Filmpire" width="252" height="85">
   </a>
 
@@ -48,9 +48,7 @@
 </details>
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://filmpire-jovan.netlify.app/)
 
 Filmpire combines the desire to unleash powerful creativity with the industry's most advanced JavaScript tools including React.js, Redux, Material UI, Alan AI, and more.
 
