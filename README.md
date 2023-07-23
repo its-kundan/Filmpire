@@ -5,11 +5,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/jovan-vukic/filmpire">
+  <a href="https://github.com/">
     <img src="src/assets/images/lightLogo.png" alt="Filmpire" width="252" height="85">
   </a>
 
-  <h2 align="center">Filmpire - Jovan Vukić</h2>
+  <h2 align="center">Filmpire - Kundan Kumar/h2>
 
   <p align="center">
     Filmpire - AI Powered Movie App [React.js, Material UI, Alan AI]
