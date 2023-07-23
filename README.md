@@ -9,19 +9,19 @@
     <img src="src/assets/images/lightLogo.png" alt="Filmpire" width="252" height="85">
   </a>
 
-  <h2 align="center">Filmpire - Kundan Kumar/h2>
+  <h2 align="center">Filmpire - Kundan Kumar</h2>
 
   <p align="center">
     Filmpire - AI Powered Movie App [React.js, Material UI, Alan AI]
     <br />
-    <a href="https://github.com/jovan-vukic/filmpire"><strong>Explore the project »</strong></a>
+<!--     <a href="https://github.com/jovan-vukic/filmpire"><strong>Explore the project »</strong></a>
     <br />
     <br />
     <a href="https://filmpire-jovan.netlify.app/">View Demo Site</a>
     ·
     <a href="https://github.com/jovan-vukic/filmpire/issues">Report Bug</a>
     ·
-    <a href="https://github.com/jovan-vukic/filmpire/issues">Request Feature</a>
+    <a href="https://github.com/jovan-vukic/filmpire/issues">Request Feature</a> -->
   </p>
 </div>
 
